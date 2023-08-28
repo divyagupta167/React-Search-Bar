@@ -1,4 +1,9 @@
+
+![Screenshot (68)](https://github.com/divyagupta167/React-Search-Bar/assets/54738711/f36cc6dd-da07-4c0a-95ec-18f6d9d7d9b4)
+
+
 # React + Vite
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
